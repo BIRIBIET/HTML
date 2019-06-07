@@ -1,0 +1,19 @@
+.slk{
+	position: absolute;
+	width: 150px;
+	z-index: 0
+
+}
+.hole{
+	background: brown;
+	background-size: 100% 100%;
+	width: 200px;
+	height: 100px;
+	background-image:url(dirt.svg);
+	 margin-left: 50px	;
+
+}
+.main{
+	display: flex
+
+}
